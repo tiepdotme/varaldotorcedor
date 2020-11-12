@@ -4,26 +4,44 @@
   "sections": [
     {
       "type": "banner-slider",
-      "autoplay": 9000,
+      "autoplay": 5000,
       "slides": [
         {
-          "img": "/img/uploads/rect89.webp",
-          "link": "/headset",
-          "alt": "Headset banner",
-          "start": "2020-04-11T05:54:06.750Z",
-          "end": "2020-12-31T03:00:00.000Z"
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/03_10-premier-league.jpg"
         },
         {
-          "img": "/img/uploads/banner2.webp",
-          "alt": "Banner sample two",
           "start": "",
-          "end": ""
+          "end": "",
+          "img": "/img/uploads/03_10-brasileirao-4.jpg"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/03_10-la-liga.jpg"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/03_10-serie-a.jpg"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/04_10-corta-vento.jpg"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/03_10-selecoes.jpg"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/instagram-varal-varal-do-torcedor-1.jpg"
         }
       ]
-    },
-    {
-      "type": "info-bar",
-      "enabled": true
     },
     {
       "type": "collection-shelf",
