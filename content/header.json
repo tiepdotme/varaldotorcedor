@@ -4,15 +4,19 @@
     "link": "https://instagram.com/varaldotorcedoroficial/"
   },
   "contacts_stripe": {
-    "pages": [
-      {}
-    ],
+    "pages": [],
     "phone_wpp": true,
     "socials": true
   },
   "categories_list": {
     "featured": [
-      "/tenis/?Tênis"
+      "/futebol/?Futebol",
+      "/linha-retro/?Linha Retrô",
+      "/agasalho/?Agasalhos",
+      "/tenis/?Tênis",
+      "/chuteiras/?Chuteiras",
+      "/u_10382/?NBA",
+      "/u_10391/?Acessórios "
     ],
     "random": 7,
     "full_width": true
