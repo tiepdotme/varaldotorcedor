@@ -1,7 +1,7 @@
 {
   "domain": "varaldotorcedor.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#302e21",
+  "primary_color": "#313021",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
