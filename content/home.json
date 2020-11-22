@@ -44,16 +44,38 @@
       ]
     },
     {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "collection_id": null,
-      "limit": 12,
-      "page": 1
+      "type": "responsive-banner",
+      "img": "/img/uploads/teste-2.jpg",
+      "link": "https://varaldotorcedor.netlify.app/premier-league/",
+      "alt": "Saiba Mais"
     },
     {
-      "type": "page-title",
-      "title": "Varal do torcedor | Qualidade e preço justo em artigos esportivos",
-      "description": ""
+      "type": "responsive-banner",
+      "img": "/img/uploads/teste-2.jpg"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "collection_id": "5fadb91d80c6216a3fc55244:categories:Copa América:/copa-america/",
+      "limit": 23,
+      "page": 1,
+      "sort": "news"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "limit": 22,
+      "page": 1,
+      "collection_id": "5fadb93680c6216a3fc5527c:categories:Premier League:/premier-league/",
+      "sort": "news"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "limit": 20,
+      "page": 4,
+      "collection_id": "5fadb94380c6216a3fc55296:categories:Campeonato Brasileiro:/campeonato-brasileiro/",
+      "sort": "news"
     }
   ]
 }
