@@ -66,6 +66,10 @@
       "page": 5,
       "collection_id": "5fadb94380c6216a3fc55296:categories:Campeonato Brasileiro:/campeonato-brasileiro/",
       "sort": "news"
+    },
+    {
+      "type": "breadcrumbs",
+      "enabled": true
     }
   ]
 }
