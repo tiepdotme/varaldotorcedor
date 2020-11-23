@@ -1,12 +1,12 @@
 {
   "domain": "varaldotorcedor.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#fcfcfc",
+  "primary_color": "#f31616",
   "theme": {
     "bootswatch": "minty",
     "custom": "_"
   },
-  "bg_color": "#ababab",
+  "bg_color": "#000000",
   "logo": "/img/uploads/logo.png",
   "name": "Varal do torcedor",
   "short_name": "Varal do torcedor",
@@ -15,7 +15,7 @@
   "mini_logo": "",
   "favicon": "/img/uploads/favicon.jpg",
   "country_code": "BR",
-  "secondary_color": "#e9fa00",
+  "secondary_color": "#000000",
   "icon": "/img/uploads/logo.png",
   "store_id": 1186,
   "description": "Desde 1º de julho de 2018, o Varal do Torcedor vêm crescendo e se tornando uma referência de qualidade e preço justo em artigos esportivos. Inovando em produtos, buscamos exaustivamente a satisfação de nossos clientes e torcedores garantindo sua fidelização.",
