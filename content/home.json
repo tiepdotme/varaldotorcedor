@@ -70,6 +70,14 @@
     {
       "type": "breadcrumbs",
       "enabled": true
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
+    },
+    {
+      "type": "custom-content",
+      "markdown": "1. ![https://varaldotorcedor.netlify.app/premier-league/](/img/uploads/descricao-kit-treinamento.jpg)"
     }
   ]
 }
