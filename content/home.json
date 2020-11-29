@@ -5,7 +5,13 @@
     {
       "type": "banner-slider",
       "autoplay": 5000,
-      "slides": []
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/homenagem-maradona.png"
+        }
+      ]
     },
     {
       "type": "collection-shelf",
