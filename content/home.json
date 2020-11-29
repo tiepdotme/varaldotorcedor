@@ -5,43 +5,7 @@
     {
       "type": "banner-slider",
       "autoplay": 5000,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/homenagem-maradona.png"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/03_10-brasileirao-4.jpg"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/03_10-la-liga.jpg"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/03_10-serie-a.jpg"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/04_10-corta-vento.jpg"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/03_10-selecoes.jpg"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/instagram-varal-varal-do-torcedor-1.jpg"
-        }
-      ]
+      "slides": []
     },
     {
       "type": "collection-shelf",
