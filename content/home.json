@@ -3,10 +3,6 @@
   "meta_description": "",
   "sections": [
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/retro-1-1-.png"
-    },
-    {
       "type": "banner-slider",
       "autoplay": 5000,
       "slides": [
