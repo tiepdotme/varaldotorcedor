@@ -4,13 +4,16 @@
     "link": "https://instagram.com/varaldotorcedoroficial/"
   },
   "contacts_stripe": {
-    "pages": [],
+    "pages": [
+      {
+        "title": "Varaldotorcedoroficial@gmail.com"
+      }
+    ],
     "phone_wpp": true,
     "socials": true
   },
   "categories_list": {
     "featured": [
-      "/lancamentos-2020/2021?Lançamentos 2020/2021",
       "/futebol/?Futebol",
       "/linha-retro/?Linha Retrô",
       "/agasalho/?Agasalhos",
@@ -20,7 +23,7 @@
       "/u_10391/?Acessórios "
     ],
     "random": 8,
-    "full_width": false
+    "full_width": true
   },
   "search_input": true
 }
