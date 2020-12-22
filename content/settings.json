@@ -3,8 +3,8 @@
   "currency_symbol": "R$",
   "primary_color": "#000000",
   "theme": {
-    "bootswatch": "cerulean",
-    "custom": "clean-white"
+    "bootswatch": "cosmo",
+    "custom": "clean-gray"
   },
   "bg_color": "#ffffff",
   "logo": "/img/uploads/whatsapp-image-2020-05-28-at-15.20.21.jpeg",
