@@ -23,14 +23,7 @@
     },
     {
       "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/camisa-outubro-rosa-do-internacional-2020-adidas-dale.jpg"
-        },
-        {
-          "img": "/img/uploads/camisas-do-universidad-de-chile-2021-adidas.jpg"
-        }
-      ]
+      "banners": []
     },
     {
       "type": "collection-shelf",
