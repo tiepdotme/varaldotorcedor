@@ -12,7 +12,7 @@
     "text": "Transferência/Depósito: 5% de desconto"
   },
   "promo": {
-    "show": true,
+    "show": false,
     "text": ""
   }
 }
