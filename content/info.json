@@ -8,8 +8,8 @@
     "text": "Parcelamos em até 18x"
   },
   "exchange": {
-    "show": false,
-    "text": ""
+    "show": true,
+    "text": "Transferência/Depósito: 5% de desconto"
   },
   "promo": {
     "show": true,
