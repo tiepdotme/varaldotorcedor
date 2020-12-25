@@ -14,13 +14,15 @@
   },
   "categories_list": {
     "featured": [
+      "/lancamentos?Lançamentos",
       "/futebol/?Futebol",
       "/linha-retro/?Linha Retrô",
       "/tenis/?Tênis",
       "/chuteiras/?Chuteiras",
-      "/u_10391/?Acessórios "
+      "/u_10391/?Acessórios ",
+      "/nba/?NBA"
     ],
-    "random": 3,
+    "random": 5,
     "full_width": true
   },
   "search_input": true
