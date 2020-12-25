@@ -1,6 +1,6 @@
 {
-  "meta_title": "",
-  "meta_description": "",
+  "meta_title": "Varal do Torcedor",
+  "meta_description": "Varal,camisas,Torcedor,Nba",
   "sections": [
     {
       "type": "banner-slider",
@@ -22,17 +22,14 @@
       ]
     },
     {
-      "type": "banners-grid",
-      "banners": []
-    },
-    {
       "type": "collection-shelf",
-      "shuffle": false,
-      "collection_id": "5fadb93780c6216a3fc5527e:categories:La liga:/la-liga/",
-      "limit": 7,
-      "page": 1,
+      "shuffle": true,
+      "collection_id": "5fc2709669274c73fcddf851:collections:Lançamentos:/lancamentos-2020/2021",
+      "limit": 24,
+      "page": 4,
       "sort": "news",
-      "headless": false
+      "headless": false,
+      "title": "Lançamentos"
     },
     {
       "type": "collection-shelf",
@@ -58,6 +55,10 @@
       "collection_id": "5fadb91280c6216a3fc5522d:categories:Chuteiras:/chuteiras/",
       "sort": "news",
       "title": ""
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
     }
   ]
 }
