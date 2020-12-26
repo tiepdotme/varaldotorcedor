@@ -1,10 +1,10 @@
 {
   "domain": "varaldotorcedor.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#ffffff",
+  "primary_color": "#000000",
   "theme": {
-    "bootswatch": "yeti",
-    "custom": "clean-white"
+    "bootswatch": "minty",
+    "custom": "niche-game"
   },
   "bg_color": "#ffffff",
   "logo": "/img/uploads/whatsapp-image-2020-05-28-at-15.20.21.jpeg",
